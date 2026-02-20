@@ -95,7 +95,7 @@ The methods can be easily alternated in "loadlib.c".
 
 ## License
 
-This project respects the original BSD 3-Clause License from LibTPLoadLib. See the copyright notice in `src_original/tploadlib.c` for the original license terms.
+This project respects the original BSD 3-Clause License from LibTPLoadLib. See the copyright notice in [tploadlib.c](https://github.com/AlmondOffSec/LibTPLoadLib/blob/main/src/tploadlib.c) for the original license terms.
 
 ## Acknowledgments
 
